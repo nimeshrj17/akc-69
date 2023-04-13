@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121066763257",
+    "project_id": "akc69-20067",
+    "storage_bucket": "akc69-20067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121066763257:android:7285e6a3b86934d0d84328",
+        "android_client_info": {
+          "package_name": "com.example.sarv_swasthya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121066763257-gn4c9r8r6oqss5mqlpb33vaea2s56jn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOycXvFo_DKMLuoMTJmIp-Ao8fcYMezU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121066763257-gn4c9r8r6oqss5mqlpb33vaea2s56jn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
